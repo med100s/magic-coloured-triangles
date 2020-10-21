@@ -14,6 +14,9 @@ R R G B R G B B/
 
 
 triangle('GB') == 'R'
+
 triangle('RRR') == 'R'
+
 triangle('RGBG') == 'B'
+
 triangle('RBRGBRB') == 'G'
