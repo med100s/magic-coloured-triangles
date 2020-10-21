@@ -10,3 +10,10 @@ R R G B R G B B/
      B G R/
       R B/
        G
+
+
+
+triangle('GB') == 'R'
+triangle('RRR') == 'R'
+triangle('RGBG') == 'B'
+triangle('RBRGBRB') == 'G'
