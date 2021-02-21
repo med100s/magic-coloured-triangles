@@ -20,3 +20,5 @@ triangle('RRR') == 'R'
 triangle('RGBG') == 'B'
 
 triangle('RBRGBRB') == 'G'
+
+simple script via recursion
