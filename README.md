@@ -3,24 +3,25 @@
 
 it do this//
 
-
 R R G B R G B B/
 
- R B R G B R B/
+R B R G B R B/
  
-  G G B R G G/
+G G B R G G/
   
-   G R G B G/
+G R G B G/
    
-    B B R R/
+B B R R/
     
-     B G R/
+B G R/
      
-      R B/
+R B/
       
-       G
+G
 
-
+R + B == G 
+G + B == R
+R + G == B
 
 triangle('GB') == 'R'
 
