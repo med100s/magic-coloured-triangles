@@ -20,7 +20,9 @@ R B/
 G
 
 R + B == G 
+
 G + B == R
+
 R + G == B
 
 triangle('GB') == 'R'
